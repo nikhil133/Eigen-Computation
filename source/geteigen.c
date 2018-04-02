@@ -3,7 +3,7 @@
  *
  * Code generation for function 'geteigen'
  *
- * C source code generated on: Sat Feb 11 19:17:44 2017
+ * C source code generated on: Sat Feb 11 19:17:44 2017 using matlab emx compiler
  *
  */
 
